@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Jayanth Kumar A K
+description: Welcome to my site. I am a graduate student at UW. I am a product professional with interests in information security, good experience design and usability. My career aims are to learn skills and experiences to create the future. Please get in touch or check out some of my work and musings.
+github_username: jayanthkumarak
 
 # Email and twitter are optional:
-email: 
+email: jayanthk@uw.edu
 twitter_username: 
 
 # Set this to true to get LaTeX math equation support
